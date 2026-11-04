@@ -11,6 +11,7 @@ A lightweight, client-side self-assessment that helps small and medium-sized bus
 - Treats “Not sure” as unknown, shows completion and confidence separately, and requires 80% completion before showing an overall score.
 - Shows risk flags independently of the weighted average.
 - Produces answer-triggered practical actions with first steps, effort, dependencies, suggested owner, time horizon, and success measure.
+- Lets visitors explore illustrative business scenarios before starting, so they can see how findings translate into first actions.
 - Saves progress in versioned browser local storage; supports JSON export, browser print / Save as PDF, and deletion.
 - Requires no account, backend, API key, analytics, or third-party assessment service.
 
