@@ -1,0 +1,18 @@
+# Dependencies and generated Next.js output
+node_modules/
+.next/
+out/
+dist/
+coverage/
+*.tsbuildinfo
+
+# Local environment and operating-system files
+.env*
+.DS_Store
+.vercel/
+
+# Unrelated material already present in the source workspace; keep out of this product repo
+bfa-canvas/
+ECIS_Formal_Bid_Proposal.md
+ECIS_Technical_Proposal.md
+rfp.txt
